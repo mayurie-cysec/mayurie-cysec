@@ -1,94 +1,147 @@
 # Hey, I'm Mayuri 👋
 
-Cybersecurity Analyst with a Digital Cyber Forensic background — which means I think
-like an investigator, not just a scanner. I break web apps, dig through logs,
-and document everything so findings actually get fixed.
+Cybersecurity Analyst with a Digital Cyber Forensics background — I think 
+like an investigator, not just a scanner. I break web apps, dig through 
+logs, and document everything so findings actually get fixed.
 
-Currently: sharpening offensive skills toward OSCP while hunting bugs and
-writing up every interesting problem I solve and upskilling in VAPT.
+Currently sharpening offensive skills toward OSCP while bug hunting and 
+writing up everything I learn.
 
 ---
 
-## What I Do
+## 🐛 Vulnerabilities Reported
+
+> Real bugs. Real companies. Reported responsibly.
+
+| Vulnerability | Target |
+|---|---|
+| Improper Session Invalidation After Password Reset | Amazon |
+| Improper Session Invalidation After Password Change | TryHackMe |
+| Improper Session Invalidation After Password Change | Cantina |
+| Same-Site Scripting + Localhost Ping | NYTimes |
+| Weak Password Policy | NYTimes |
+| Subdomain Takeover | Decred |
+
+---
+
+## 🛠️ What I Do
 
 **Offensive**
-- vulnerability Assessment Penetration Testing 
-- Web Application Penetration Testing (OWASP Top 10 — hands-on, not just theoretical)
+- Web Application Penetration Testing (OWASP Top 10 — manual first, tools second)
 - Network Vulnerability Assessment
 - API Security Testing
-- Manual testing first, tools second
+- Vulnerability Research: SQLi, XSS, SSRF, CSRF, IDOR, Business Logic Flaws
 
 **Defensive**
 - SIEM log analysis and threat detection (Splunk)
-- Incident investigation
-- Security awareness training delivery
+- Incident investigation and analysis
+- Security awareness training
 
-**Tools I majorly use:**
-Burp Suite · Nmap · Wireshark · Metasploit · Splunk · Linux (OS)
+**Tools:** Burp Suite · OWASP ZAP · Nmap · Wireshark · Metasploit · 
+SQLMap · FFUF · Nessus · OpenVAS · Splunk · Linux
+
+**Frameworks:** OWASP Top 10 · NIST CSF · ISO 27001 · CIS Benchmarks · GDPR
 
 ---
 
-## Experience
+## 💼 Experience
 
 **Cybersecurity Analyst Intern — Versatile Technology**
-*Aug 2025 – Jan 2026*
+*Aug 2025 – Jan 2026 | Chhatrapati Sambhajinagar, India*
 
-- [What you actually tested — e.g., "Performed VAPT on 3 internal web applications"]
-- [Real finding — e.g., "Identified critical IDOR vulnerability in client portal"]
-- [Real output — e.g., "Delivered VAPT reports with risk ratings and fix recommendations"]
-- [Anything else real — training delivered, audits supported, tools used]
-
-<!-- Be specific. One real detail beats five vague bullets. -->
-
----
-
-## Currently
-
-- 📖 Preparing for OSCP — working through buffer overflows and Active Directory
-- 🏁 Active on TryHackMe and HackTheBox
-- ✍️ Writing up every CTF and lab I complete
-- 🐛 Exploring bug bounty on HackerOne / Bugcrowd
+- Conducted VAPT on web applications using Burp Suite and OWASP ZAP —
+  identified and documented XSS, SQLi, IDOR, HTML Injection, and No Rate
+  Limit vulnerabilities with full risk ratings
+- Performed network reconnaissance and security monitoring via Wireshark
+  and Nmap — analyzed HTTP traffic and packet captures for anomalous activity
+- Delivered comprehensive VAPT reports to stakeholders with remediation
+  strategies and risk-rated findings
+- Served as Technical Anchor for CodeFest 2025 — coordinated live
+  Hack-the-Site security challenges for participants
 
 ---
 
-## Education
+## 📂 Projects
 
-**B.Sc. Forensic Science** — Dr. Babasaheb Ambedkar Marathwada University
+### 🔍 VAPT Report — Web Application Security Assessment
+Full penetration test on a vulnerable web app. Identified critical-to-low
+severity issues, documented with CVSS scores and remediation steps.
 
-*Forensics gives me a different lens: evidence handling, chain of custody,
-investigation methodology. It crosses over into digital forensics and
-incident response more than people expect.*
+→ [View Report](add-link) 
 
 ---
 
-## Training & Simulations
+### 🏴‍☠️ CTF Writeups
+Step-by-step breakdowns — tools used, thought process, what I learned.
 
-- Deloitte Cybersecurity Job Simulation
-- Foxcon CTF — Participant
-- Cybersecurity — Skill India Digital Hub (Tech Mahindra Foundation)
+| Challenge | Platform |
+|---|---|
+| [Name](add-link) | Foxcon CTF / Redfox Security |
+| [Room](add-link) | TryHackMe |
+| [Machine](add-link) | HackTheBox |
+
+→ [All Writeups](add-link)
+
+---
+
+### 📊 SIEM Lab — Threat Detection with Splunk
+Simulated incident investigations, built detection scenarios, wrote
+investigation walkthroughs.
+
+→ [View Lab Notes](add-link)
+
+---
+
+## 📖 Currently
+
+- Preparing for OSCP — buffer overflows, Active Directory, manual exploitation
+- Active on TryHackMe and HackTheBox
+- Writing up every CTF and lab I complete
+- Bug hunting on HackerOne / Bugcrowd
+
+---
+
+## 🎓 Education
+
+**B.Sc. Forensic Science** *(Specialization: Digital Cyber Forensics)*
+Dr. Babasaheb Ambedkar Marathwada University | 2022–2025
+
+Forensics trained me in evidence handling, chain of custody, and 
+investigation methodology — skills that transfer directly into digital 
+forensics and incident response.
+
+---
+
+## 📜 Training & Certifications
+
+- Cybersecurity Job Simulation — Deloitte
+- Cybersecurity Job Simulation — Mastercard  
+- Cybersecurity Job Simulation — Commonwealth Bank
+- Cybersecurity Course — Skill India Digital Hub (Tech Mahindra Foundation)
+- Foxcon CTF — Participant | Redfox Security
 - Cyber Awareness Quiz 2025 — IIT Kanpur
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayuri_Patwardhan-blue?style=flat&logo=linkedin)
 
-](your-linkedin-url)
+](https://linkedin.com/in/mayurispatwardhan)
 [
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)
+![GitHub](https://img.shields.io/badge/GitHub-mayurie--cysec-black?style=flat&logo=github)
 
-](your-thm-url)
+](https://github.com/mayurie-cysec)
 [
 
-![Email](https://img.shields.io/badge/Email-yourmail@gmail.com-grey?style=flat&logo=gmail)
+![Email](https://img.shields.io/badge/Email-work.mayurie@gmail.com-grey?style=flat&logo=gmail)
 
-](mailto:yourmail@gmail.com)
+](mailto:work.mayurie@gmail.com)
 
 ---
 
-*Open to cybersecurity analyst, VAPT, and SOC roles.
-If you found something interesting in my repos — let's talk.*
+*Open to Cybersecurity Analyst, VAPT, and SOC roles.*
+*If you found something interesting here — let's talk.*
