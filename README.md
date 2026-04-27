@@ -1,17 +1,18 @@
 # Hey, I'm Mayuri 👋
 
-Cybersecurity Analyst with a Forensic Science background — which means I think
+Cybersecurity Analyst with a Digital Cyber Forensic background — which means I think
 like an investigator, not just a scanner. I break web apps, dig through logs,
 and document everything so findings actually get fixed.
 
 Currently: sharpening offensive skills toward OSCP while hunting bugs and
-writing up every interesting problem I solve.
+writing up every interesting problem I solve and upskilling in VAPT.
 
 ---
 
 ## What I Do
 
 **Offensive**
+- vulnerability Assessment Penetration Testing 
 - Web Application Penetration Testing (OWASP Top 10 — hands-on, not just theoretical)
 - Network Vulnerability Assessment
 - API Security Testing
@@ -22,41 +23,8 @@ writing up every interesting problem I solve.
 - Incident investigation
 - Security awareness training delivery
 
-**Tools I actually use:**
-Burp Suite · Nmap · Wireshark · Metasploit · Splunk · Linux
-
----
-
-## Featured Work
-
-### 🔍 VAPT Report — Demo Web Application
-Full penetration test on a vulnerable web app. Found and documented
-critical-to-low severity issues including XSS, SQLi, and IDOR.
-Delivered a professional report with CVSS scores and remediation steps.
-
-→ [View Report (PDF)](link-here) <!-- Link your actual report -->
-
----
-
-### 🏴‍☠️ CTF Writeups
-Step-by-step breakdowns of how I solved CTF challenges — tools used,
-thought process, what I learned.
-
-| Challenge | Platform | Category |
-|-----------|----------|----------|
-| [Challenge Name](link) | Foxcon CTF | Web / Forensics |
-| [Room Name](link) | TryHackMe | Network / Privesc |
-| [Machine Name](link) | HackTheBox | Linux / Web |
-
-→ [All Writeups](link-to-blog-or-folder)
-
----
-
-### 📊 SIEM Lab — Threat Detection with Splunk
-Simulated incident investigation using Splunk. Built detection scenarios,
-analyzed log sources, and wrote investigation walkthroughs.
-
-→ [View Lab Notes](link-here)
+**Tools I majorly use:**
+Burp Suite · Nmap · Wireshark · Metasploit · Splunk · Linux (OS)
 
 ---
 
