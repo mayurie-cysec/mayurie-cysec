@@ -134,8 +134,6 @@ Currently sharpening offensive skills toward OSCP while bug hunting and writing 
 ### 🔍 VAPT Report — Web Application Security Assessment
 Full penetration test on a vulnerable web app. Identified and documented critical-to-low severity vulnerabilities including XSS, SQLi, and IDOR with CVSS scores and remediation steps.
 
-→ [View Report](add-your-link-here)
-
 ---
 
 ### 🏴‍☠️ CTF Writeups
@@ -146,15 +144,6 @@ Step-by-step breakdowns of CTF challenges — tools used, thought process, what 
 | Crack the Hash | TryHackMe |
 | Pickle Rick | TryHackMe |
 | Foxcon CTF | Redfox Security |
-
-→ [All Writeups](add-your-link-here)
-
----
-
-### 📊 SIEM Lab — Threat Detection with Splunk
-Simulated incident investigations, detection scenarios, and investigation walkthroughs using Splunk.
-
-→ [View Lab Notes](add-your-link-here)
 
 ---
 
